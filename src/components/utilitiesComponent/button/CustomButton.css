@@ -1,0 +1,25 @@
+.bgprimary{
+    background: #E26144 !important;
+    color: white !important;
+    border: 0 !important;
+    border-radius: 0;
+}
+.bgprimary.btn.btn-primary {
+    padding: 6px 35px;
+}
+
+.bgprimary-outline {
+    background: transparent !important;
+    border-color: #5b89e9 !important;
+    color:#5b89e9 !important;
+}
+.arrow-icon {
+    position: absolute;
+    right: 20px;
+}
+.bgprimary.btn-arrow {
+    min-width: 190px;
+    position: relative;
+    padding: 10px 35px !important;
+    text-align: left;
+}

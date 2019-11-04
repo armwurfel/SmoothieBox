@@ -1,0 +1,11 @@
+header{
+    position: absolute !important;
+    width: 100%;
+}
+header .nav-link {
+    color: white !important;
+    margin-right: 30px;
+}
+header .nav-link svg {
+    margin-right: 10px;
+}
