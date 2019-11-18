@@ -14,10 +14,10 @@ class Slider extends Component {
                     <Row className="m-0">
                         <Col md={12} className="slider-content">
                             <div >
-                                <h2 className="txt-red pb-4">Byrjaðu daginn á
+                                <h2 className="main-heading txt-red pb-md-3 pb-lg-4">Byrjaðu daginn á
                                     <br /><span> gómsætum drykk </span>
                                 </h2>
-                                <p className="txt-red pb-5 mb-5">Verð frá <b> 399 kr </b> hver skammtur</p>
+                                <p className="txt-red pb-md-4 mb-md-4 pb-lg-5 mb-lg-5">Verð frá <b> 399 kr </b> hver skammtur</p>
                                 <Button onClick={this.closeNav} arrow={true} className="bgprimary btn-arrow" as={NavLink} to="/" title="Áfram" />
                             </div>
                         </Col>

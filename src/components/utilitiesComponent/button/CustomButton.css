@@ -23,3 +23,10 @@
     padding: 10px 35px !important;
     text-align: left;
 }
+  
+  @media (max-width:800px){
+    .bgprimary.btn-arrow {
+        min-width: 135px;
+        padding: 5px 20px !important;
+    }
+  }

@@ -62,3 +62,24 @@ h1, h2, h3, h4, h5, h6, p, span, a{
 .txt-red{
   color: #2F2F2F;
 }
+
+h2.main-heading{
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.0777778px;
+}
+
+@media (min-width:601px) and (max-width: 799px){
+  h2.main-heading {
+      font-size: 25px;
+      line-height: 35px;
+  }    
+}
+
+
+@media (max-width:600px){
+  h2.main-heading{
+      font-size: 20px;
+      line-height: 20px;
+  }    
+}

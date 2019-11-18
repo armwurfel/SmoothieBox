@@ -1,11 +1,8 @@
+.slider {
+    position: relative;
+}
 .slider .slider-img {
     width: 100%;
-}
-
-.slider h2{
-    font-size: 40px;
-    line-height: 50px;
-    letter-spacing: 0.0777778px;
 }
 
 .slider-content{
