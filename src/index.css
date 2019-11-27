@@ -58,7 +58,9 @@ code {
 h1, h2, h3, h4, h5, h6, p, span, a{
   font-family: CeraPro;
 }
-
+p{
+  font-size: 18px;
+}
 .txt-red{
   color: #2F2F2F;
 }
@@ -67,6 +69,10 @@ h2.main-heading{
   font-size: 40px;
   line-height: 50px;
   letter-spacing: 0.0777778px;
+}
+
+h2.main-heading span{
+  font-weight: bold;
 }
 
 @media (min-width:601px) and (max-width: 799px){
