@@ -1,0 +1,14 @@
+footer{
+    background: #F5F5F5;
+    padding: 40px 0;
+}
+.footer-contact address {
+    display: inline-block;
+    margin-bottom: 0;
+}
+.footer-contact a{
+    color: #2F2F2F;
+}
+.footer-contact img{
+    margin-right: 10px;
+}
