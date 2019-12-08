@@ -8,7 +8,7 @@ class Process extends Component {
         return (
             <section className="process">
                 <Container>
-                    <Row>
+                    <Row className="m-0">
                         <Col md={6}>
                             <h2 className="heading mb-5 pb-4">Hinn fullkomni smoothie á 2 mínútum</h2>
                             <Row className="m-0" >

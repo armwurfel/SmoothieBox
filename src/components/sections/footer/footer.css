@@ -12,3 +12,13 @@ footer{
 .footer-contact img{
     margin-right: 10px;
 }
+.footer-social{
+    padding-top: 62px !important;
+}
+.footer-social img {
+    margin-right: 10px;
+}
+.footer-social img.fb{
+    min-width: 19px;
+    height: 19px;
+}
